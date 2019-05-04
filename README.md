@@ -7,5 +7,5 @@ Jawaban <br>
 2. File(validasi.php) Cara Menggunakannya buat tambahkan tag form dengan method POST di HTMLnya Kemudian Buat Input yang namanya username dan password , dan tambahkan juga input type submit buat button submit lalu panggil methodnya di atas sendiri
 3. File(JavaApplication32.java) Cara Menggunakannya tinggal di run karena sudah di panggil method nya
 4. Belum
-5. 
+5. File(random.php) Cara Menggunakannya tinggal di run karena sudah di panggil method nya
 
