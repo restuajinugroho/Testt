@@ -8,7 +8,7 @@ Jawaban <br>
 3. File(JavaApplication32.java) Cara Menggunakannya tinggal dirun karena sudah dipanggil method nya
 4. Belum
 5. File(random.php) Cara Menggunakannya tinggal run karena sudah dipanggil method nya
-6. Folder Pilpres Caranya tinggal dirun 
+6. Folder Pilpres Caranya tinggal dirun untuk bootstrapnya pakai cdn jadi filenya hanya 1 (index.php) doang
 
 Selesai
 
