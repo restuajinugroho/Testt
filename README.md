@@ -5,7 +5,10 @@ Software yang saya gunakan sublime text , Google Chrome, Xampp(For Apache & Mysq
 Jawaban <br>
 1. File(biodata.php) Cara Menggunakannya Tinggal run saja filenya karena methodnya sudah dipanggil disitu<br>
 2. File(validasi.php) Cara Menggunakannya buat tambahkan tag form dengan method POST di HTMLnya Kemudian Buat Input yang namanya username dan password , dan tambahkan juga input type submit buat button submit lalu panggil methodnya di atas sendiri
-3. File(JavaApplication32.java) Cara Menggunakannya tinggal di run karena sudah di panggil method nya
+3. File(JavaApplication32.java) Cara Menggunakannya tinggal dirun karena sudah dipanggil method nya
 4. Belum
-5. File(random.php) Cara Menggunakannya tinggal di run karena sudah di panggil method nya
+5. File(random.php) Cara Menggunakannya tinggal run karena sudah dipanggil method nya
+6. Folder Pilpres Caranya tinggal dirun 
+
+Selesai
 
